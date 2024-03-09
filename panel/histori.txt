@@ -1,0 +1,14 @@
+[CANDY 2.9.2]
+- Penambahan menu wali kelas
+- Penambahan fitur di Status Peserta
+- Penambahan Fitur Ujian Ulang
+- Penambahan Fitur Pelanggaran
+- Perubahan sedikit tampilan
+- Perbaikan di versi sebelumnya
+
+Terima Kasih Kepada Allah SWT.
+Terima Kasih untuk My Little Candy Nasha Arumi
+Terima Kasih untuk Semua Pengguna Candy.
+
+Salam Candy
+

@@ -1,0 +1,232 @@
+.box {
+    position: relative;
+    border-radius: 15px;
+    background: #ffffff;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.modal-content {
+    border-radius: 20px;
+
+}
+
+.modal-header {
+    border-radius: 10px;
+
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+
+    border-radius: 10px;
+}
+
+.select2-container--default .select2-selection--single,
+.select2-selection .select2-selection--single {
+
+    border-radius: 10px;
+
+}
+
+.widget-user-2 .widget-user-header {
+
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 1em;
+    overflow: hidden;
+}
+
+.main-header .sidebar-baru {
+    float: left;
+    color: white;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+
+.small-box {
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.small-box>.small-box-footer {
+    border-radius: 15px;
+}
+
+@font-face {
+    font-family: 'tulisan_keren';
+    src: url('../fonts/poppins/Poppins-Light.ttf');
+}
+
+.btn {
+    border-radius: 0em;
+}
+
+.btn.btn-flat {
+    border-radius: 0em;
+}
+
+@font-face {
+    font-family: 'OCR A Extended';
+    font-style: normal;
+    font-weight: normal;
+    src: local('OCR A Extended'), url('OCRAEXT_2.woff') format('woff');
+}
+
+body {
+    font-family: 'tulisan_keren', me_quran;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #000;
+}
+
+.sidebar-menu>li>a {
+    padding: 8px 5px 8px 10px;
+    display: block;
+}
+
+.skin-green .main-header .navbar {
+    background-color: #02948d;
+}
+
+.bg-green {
+    background-color: #02948d;
+}
+
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../img/ajax-loader.gif') 50% 50% no-repeat rgb(249, 249, 249);
+    opacity: .8;
+}
+
+.skin-red .sidebar a {
+    color: #b1c9f5;
+}
+
+.form-control {
+    border-radius: 10px;
+    box-shadow: none;
+    border-color: #afc2e8;
+}
+
+.box-header {
+    color: rgba(224, 219, 219, 0.877);
+}
+
+.box-header .box-title {
+    color: #3d6baf;
+}
+
+.box-footer {
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background-color: #b1c9f5;
+}
+
+
+thead {
+    background-color: rgb(61, 159, 252);
+
+}
+
+thead:hover {
+    background-color: #becfff;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f3f2ff;
+}
+
+.info-box-number {
+    display: block;
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+}
+
+.main-header .logo .logo-lg {
+    display: block;
+    color: black;
+}
+
+.side-menu-icon {
+    font-size: 18px;
+    color: teal;
+    width: 30px;
+    text-align: center;
+    -webkit-text-stroke-width: .0px;
+    -webkit-text-stroke-color: #000000;
+}
+
+.sidebar-menu li.header {
+    padding: 5px 25px 5px 15px;
+    font-size: 12px;
+    color: black;
+}
+
+.menu-header ul {
+    list-style: none;
+    background: teal;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.menu-header ul li {
+    display: inline-block;
+}
+
+.menu-header ul li a {
+    display: inline-block;
+    text-align: center;
+    padding: 5px 8px;
+    color: #fff;
+    margin-top: 0;
+}
+
+.skin-green-light .sidebar-menu>li.active>a {
+    background-color: #c7d6ffab;
+    border-color: #005BEA;
+    color: black;
+    box-shadow: inset 5px 0 0 teal;
+    border-radius: 10px;
+}
+
+.skin-green-light .sidebar-menu>li>a:hover {
+    background-color: transparent;
+    border-color: orange;
+    color: teal;
+    box-shadow: inset 5px 0 0 teal;
+}
+
+.sidebar-menu li a {
+
+    margin-top: -1px;
+    text-decoration: none;
+    outline: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.bg-mint {
+    background-color: teal !important;
+    color: whitesmoke;
+}
