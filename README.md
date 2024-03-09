@@ -4,8 +4,9 @@ ____
 Aplikasi Mod ini tidak diperjualbelikan, untuk memajukan Pendidikan di Indonesia.
 
 ### CHANGELOG:
-- Edit home.php
-- Edit index.php
+- Edit /panel/home.php
+- Edit /panel/index.php
+- Edit /panel/mod_kartu/print_kartu.php
 
 
 #### Added
