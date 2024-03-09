@@ -6,20 +6,22 @@ ____
 Aplikasi Mod ini tidak diperjualbelikan, untuk memajukan Pendidikan di Indonesia.
 
 ### CHANGELOG:
+- 
+
+### EDITED :
 - Edit /panel/home.php
 - Edit /panel/index.php
 - Edit /panel/mod_kartu/print_kartu.php
 - Edit /index.php
 
-
-#### Added
+#### ADDED
 - 
 - 
 
-#### Fixed
+#### FIXED
 
 ____
-## Download
+## DOWNLOAD
 Harap download aplikasi dari tombol [<> Code] -> Download zip
 
 ____
@@ -27,12 +29,12 @@ ____
 https://github.com/tjktsmkyasmida/CandyCBTModTJKT-VHD
 
 ----
-## Install
+## INSTALL
 * Download Aplikasi dari menu **Code => Download ZIP**
 * Extract di folder **htdocs** jika menggunakan XAMPP, atau folder **www** jika mengonakan Laragon
 * Lengkapnya sialhkan ke [TUTORIAL INSTALL](https://www.youtube.com/@tjkt.smkyasmida)
 ----
-## Update
+## UPDATE
 * Perlu diperhatikan Versi CandyCBTnya jika ingin Replace
 * Download Aplikasi dari menu **Code => Download ZIP**
 * Extract dan replace semua code di folder aplikasi
