@@ -1,7 +1,8 @@
 # CandyCBT Mod TJKT SMKS Yasmida
+____
 ## Last version: 2.9.3r1
+Aplikasi Mod ini tidak diperjualbelikan, untuk memajukan Pendidikan di Indonesia.
 
--------------
 ### CHANGELOG:
 - Edit home.php
 - Edit index.php
@@ -17,7 +18,7 @@ ____
 ## Download
 Harap download aplikasi dari tombol [<> Code] -> Download zip
 
------
+____
 ## VIRTUAL BOX (VHD):
 https://github.com/tjktsmkyasmida/CandyCBTModTJKT-VHD
 
@@ -28,6 +29,7 @@ https://github.com/tjktsmkyasmida/CandyCBTModTJKT-VHD
 * Lengkapnya sialhkan ke [TUTORIAL INSTALL](https://www.youtube.com/@tjkt.smkyasmida)
 ----
 ## Update
+* Perlu diperhatikan Versi CandyCBTnya jika ingin Replace
 * Download Aplikasi dari menu **Code => Download ZIP**
 * Extract dan replace semua code di folder aplikasi
 * sesuaikan nama database yang digunakan
@@ -39,5 +41,5 @@ ______
 Merupakan aplikasi untuk ujian berbasis komputer 
 bisa digunakan untuk PTS/PAS/USBN/SIMULASIUNBK
 
-Web Candy http://candycbt.id
+Web Candy https://cbtcandy.com/
 SEMOGA BERMANFAAT
