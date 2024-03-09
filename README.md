@@ -7,6 +7,7 @@ Aplikasi Mod ini tidak diperjualbelikan, untuk memajukan Pendidikan di Indonesia
 - Edit /panel/home.php
 - Edit /panel/index.php
 - Edit /panel/mod_kartu/print_kartu.php
+- Edit /index.php
 
 
 #### Added
