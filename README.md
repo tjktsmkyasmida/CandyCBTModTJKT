@@ -1,3 +1,5 @@
+![image.png](https://tjkt.smkyasmida.sch.id/wp-content/uploads/2023/01/tjktxyz.png)
+
 # CandyCBT Mod TJKT SMKS Yasmida
 ____
 ## Last version: 2.9.3r1
